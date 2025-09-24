@@ -6,8 +6,7 @@
 
 A modern, responsive e-commerce product catalog built with **React.js** and **Tailwind CSS**. Features beautiful product cards, detailed modal views, real-time search functionality, and smooth pagination.
 
-## 🎯 Live Demo
-> [View Live Demo](https://bayupratama7.github.io/Slicing-Product) *(Coming Soon)*
+
 
 ## ✨ Preview
 A beautiful and modern e-commerce catalog with premium product showcasing, search functionality, and responsive design.
